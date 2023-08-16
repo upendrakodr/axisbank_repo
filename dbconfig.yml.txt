@@ -1,0 +1,2 @@
+username=ashok
+pwd=123@ashokit
